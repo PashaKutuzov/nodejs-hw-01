@@ -7,4 +7,4 @@ await writeContacts([createFakeContact()])
     }
 };
 
-generateContacts(4);
+generateContacts(5);
